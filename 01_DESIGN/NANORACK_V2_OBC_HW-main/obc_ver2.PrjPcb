@@ -491,6 +491,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCKKVADI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for obc_ver2\Design Rule Check - OBC_Ver2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
